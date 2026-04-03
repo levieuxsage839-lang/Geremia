@@ -1,0 +1,1 @@
+{\n  "version": 2,\n  "framework": "nextjs",\n  "env": {\n    "NEXT_PUBLIC_API_URL": "https://api.example.com",\n    "NEXT_PUBLIC_ANOTHER_ENV_VAR": "value"\n  }\n}
